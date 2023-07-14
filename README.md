@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Teerath-Agarwal
-- 👀 I’m interested in C++ coding
-- 🌱 I’m currently learning C++, python
-- 💞️ I’m looking to collaborate on a simple coding project
+- 🌱 I’m currently learning ReactJS, NodeJS.
+- 💞️ I’m looking to collaborate on a web application or CLI projects
 - 📫 How to reach me: teerath173@gmail.com
 
 <!---
