@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teerath-Agarwal
-- 🌱 I’m currently learning ReactJS, NodeJS.
+- 🌱 I’m currently learning ReactJS, NodeJS and GoLang.
 - 💞️ I’m looking to collaborate on a web application or CLI projects
 - 📫 How to reach me: teerath173@gmail.com
 
